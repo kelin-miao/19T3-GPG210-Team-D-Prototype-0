@@ -1,0 +1,800 @@
+﻿Log file open, 09/29/19 15:41:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Rap_Synapse
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156375
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 7 (Service Pack 1), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: AMD Radeon (TM) R9 390 Series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: B:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.29-05.41.33:315][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.29-05.41.33:315][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.29-05.41.33:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:315][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.29-05.41.33:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.29-05.41.33:316][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:316][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:322][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-05.41.33:322][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-05.41.33:323][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-05.41.33:323][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-05.41.33:323][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.29-05.41.33:332][  0]LogHAL: Display: Platform has ~ 16 GB [17126068224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.29-05.41.33:332][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.29-05.41.33:332][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-05.41.33:332][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-05.41.33:332][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-05.41.33:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-05.41.33:333][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.29-05.41.33:334][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.29-05.41.33:334][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.29-05.41.33:334][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-05.41.33:334][  0]LogInit: Computer: KELIN-PC
+[2019.09.29-05.41.33:334][  0]LogInit: User: Kelin
+[2019.09.29-05.41.33:334][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.29-05.41.33:334][  0]LogInit: High frequency timer resolution =3.312861 MHz
+[2019.09.29-05.41.33:334][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.29-05.41.33:334][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.29-05.41.33:334][  0]LogMemory: Process Physical Memory: 96.51 MB used, 96.51 MB peak
+[2019.09.29-05.41.33:334][  0]LogMemory: Process Virtual Memory: 86.27 MB used, 86.27 MB peak
+[2019.09.29-05.41.33:334][  0]LogMemory: Physical Memory: 5862.49 MB used,  10470.20 MB free, 16332.69 MB total
+[2019.09.29-05.41.33:334][  0]LogMemory: Virtual Memory: 502.43 MB used,  8388105.50 MB free, 8388608.00 MB total
+[2019.09.29-05.41.33:362][  0]LogInit: Using OS detected language (en-AU).
+[2019.09.29-05.41.33:362][  0]LogInit: Using OS detected locale (en-AU).
+[2019.09.29-05.41.33:363][  0]LogTextLocalizationManager: No specific localization for 'en-AU' exists, so the 'en' localization will be used.
+[2019.09.29-05.41.33:536][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.09.29-05.41.33:536][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.09.29-05.41.33:536][  0]LogInit: Setting process to DPI aware
+[2019.09.29-05.41.33:560][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.29-05.41.33:560][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.29-05.41.33:748][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.09.29-05.41.33:748][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.29-05.41.33:757][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 390 Series' (Feature Level 11_0)
+[2019.09.29-05.41.33:757][  0]LogD3D11RHI:       8167/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.09.29-05.41.33:757][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.29-05.41.33:761][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.29-05.41.33:761][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.29-05.41.33:761][  0]LogWindows: EnumDisplayDevices:
+[2019.09.29-05.41.33:761][  0]LogWindows:    0. 'AMD Radeon (TM) R9 390 Series' (P:1 D:1)
+[2019.09.29-05.41.33:762][  0]LogWindows:    1. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:762][  0]LogWindows:    2. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:762][  0]LogWindows:    3. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:762][  0]LogWindows:    4. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:763][  0]LogWindows:    5. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:763][  0]LogWindows:    6. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:763][  0]LogWindows:    7. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-05.41.33:763][  0]LogWindows:    8. 'RDPDD Chained DD' (P:0 D:0)
+[2019.09.29-05.41.33:764][  0]LogWindows:    9. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.09.29-05.41.33:764][  0]LogWindows:    10. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.09.29-05.41.33:764][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2019.09.29-05.41.33:764][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 390 Series
+[2019.09.29-05.41.33:764][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.5.2 (internal:26.20.11015.5009, unified:26.20.11015.5009)
+[2019.09.29-05.41.33:764][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.09.29-05.41.33:764][  0]LogRHI: Texture pool is 5717 MB (70% of 8167 MB)
+[2019.09.29-05.41.33:793][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.29-05.41.33:796][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-05.41.33:797][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-05.41.33:797][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-05.41.33:803][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.09.29-05.41.34:026][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.29-05.41.34:041][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.29-05.41.34:056][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.29-05.41.34:071][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.29-05.41.34:086][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.29-05.41.34:101][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.29-05.41.34:116][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.29-05.41.34:131][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.29-05.41.34:138][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.29-05.41.34:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.29-05.41.34:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.29-05.41.34:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.29-05.41.34:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.29-05.41.34:229][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.29-05.41.34:230][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.29-05.41.34:232][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.29-05.41.34:282][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.29-05.41.34:282][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.29-05.41.34:310][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.29-05.41.34:310][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.29-05.41.34:324][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.29-05.41.34:338][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.29-05.41.34:352][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.29-05.41.34:366][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.29-05.41.34:417][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.29-05.41.34:417][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.29-05.41.34:417][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.29-05.41.34:425][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.29-05.41.34:464][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Intermediate/Shaders/WorkingDirectory/6052/).
+[2019.09.29-05.41.34:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kelin/AppData/Local/Temp/UnrealShaderWorkingDir/278908524461AA500228B3B4ED715515/'.
+[2019.09.29-05.41.34:466][  0]LogXGEController: Cleaning working directory: C:/Users/Kelin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.29-05.41.34:466][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.29-05.41.34:466][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.29-05.41.34:466][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.29-05.41.35:077][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.29-05.41.35:160][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Kelin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-05.41.35:160][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kelin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.29-05.41.35:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.29-05.41.35:161][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.29-05.41.35:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-05.41.35:161][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.29-05.41.35:174][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.29-05.41.35:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-05.41.35:174][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.29-05.41.35:186][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kelin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.29-05.41.35:186][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.29-05.41.35:186][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.29-05.41.35:212][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.29-05.41.35:213][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.29-05.41.35:214][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.29-05.41.35:309][  0]LogAssetRegistry: FAssetRegistry took 0.0326 seconds to start up
+[2019.09.29-05.41.35:682][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-05.41.35:833][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.29-05.41.35:833][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.29-05.41.35:833][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.29-05.41.35:833][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.29-05.41.35:833][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.29-05.41.35:843][  0]LogNetVersion: Rap_Synapse 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 109545618)
+[2019.09.29-05.41.36:298][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038178 seconds
+[2019.09.29-05.41.36:307][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.29-05.41.36:307][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.29-05.41.36:307][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.29-05.41.37:321][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.29-05.41.37:333][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.29-05.41.37:434][  0]SourceControl: Source control is disabled
+[2019.09.29-05.41.37:434][  0]SourceControl: Source control is disabled
+[2019.09.29-05.41.37:435][  0]SourceControl: Source control is disabled
+[2019.09.29-05.41.37:436][  0]SourceControl: Source control is disabled
+[2019.09.29-05.41.37:506][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.29-05.41.37:605][  0]LogOcInput: OculusInput pre-init called
+[2019.09.29-05.41.38:444][  0]LogEngine: Initializing Engine...
+[2019.09.29-05.41.38:446][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.09.29-05.41.38:447][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.29-05.41.38:726][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.29-05.41.38:747][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-05.41.38:774][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-05.41.38:785][  0]LogInit: FAudioDevice initialized.
+[2019.09.29-05.41.38:785][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.29-05.41.38:884][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Kelin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-05.41.38:888][  0]LogInit: Texture streaming: Enabled
+[2019.09.29-05.41.38:907][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.29-05.41.38:922][  0]LogInit: Transaction tracking system initialized
+[2019.09.29-05.41.38:942][  0]BlueprintLog: New page: Editor Load
+[2019.09.29-05.41.39:016][  0]LocalizationService: Localization service is disabled
+[2019.09.29-05.41.39:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/' took 0.01s
+[2019.09.29-05.41.39:317][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.29-05.41.39:317][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.29-05.41.39:498][  0]SourceControl: Source control is disabled
+[2019.09.29-05.41.39:498][  0]Cmd: MAP LOAD FILE="C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.29-05.41.39:498][  0]LightingResults: New page: Lighting Build
+[2019.09.29-05.41.39:501][  0]MapCheck: New page: Map Check
+[2019.09.29-05.41.39:501][  0]LightingResults: New page: Lighting Build
+[2019.09.29-05.41.39:526][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.09.29-05.41.39:860][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.29-05.41.39:871][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-05.41.39:900][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.09.29-05.41.39:900][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-05.41.39:901][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2019.09.29-05.41.39:901][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.403
+[2019.09.29-05.41.40:013][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-05.41.40:022][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-05.41.40:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-05.41.40:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-05.41.40:043][  0]LogCollectionManager: Loaded 0 collections in 0.001077 seconds
+[2019.09.29-05.41.40:080][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Collections/' took 0.01s
+[2019.09.29-05.41.40:080][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/Developers/Kelin/Collections/' took 0.01s
+[2019.09.29-05.41.40:080][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/Collections/' took 0.01s
+[2019.09.29-05.41.40:080][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.29-05.41.40:089][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2732 classes and 659 folders.
+[2019.09.29-05.41.40:095][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-05.41.40:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-05.41.40:134][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-05.41.40:140][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.29-05.41.40:162][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.29-05.41.40:165][  0]LogSlate: Took 0.000615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.29-05.41.40:172][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.29-05.41.40:244][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.29-05.41.40:448][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-05.41.40:448][  0]LogLoad: (Engine Initialization) Total time: 11.35 seconds
+[2019.09.29-05.41.40:448][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.29-05.41.40:487][  0]LogAssetRegistry: Asset discovery search completed in 5.1982 seconds
+[2019.09.29-05.41.40:489][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.29-05.41.40:489][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2019.09.29-05.41.40:491][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.29-05.43.30:312][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-05.46.38:330][278]AssetReimport: New page: Outstanding source content changes 1:46:38 am
+[2019.09.29-05.46.38:332][278]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.fbx)
+[2019.09.29-05.46.38:342][278]LogFbx: Loading FBX Scene from C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.fbx
+[2019.09.29-05.46.38:349][278]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.29-05.46.38:378][278]LogSlate: Took 0.000546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-05.46.39:539][278]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.29-05.46.39:562][278]LogStaticMesh: Building static mesh Railing_Corner_Outer_Right_001...
+[2019.09.29-05.46.39:570][278]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Outer_Right_001.Railing_Corner_Outer_Right_001
+[2019.09.29-05.46.39:577][278]LogStaticMesh: Building static mesh Railing_Long_Inner_001...
+[2019.09.29-05.46.39:583][278]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Long_Inner_001.Railing_Long_Inner_001
+[2019.09.29-05.46.39:591][278]LogStaticMesh: Building static mesh Railing_Corner_Inner_Right_001...
+[2019.09.29-05.46.39:596][278]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Inner_Right_001.Railing_Corner_Inner_Right_001
+[2019.09.29-05.46.39:603][278]LogStaticMesh: Building static mesh Railing_Corner_Inner_Left_001...
+[2019.09.29-05.46.39:609][278]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Inner_Left_001.Railing_Corner_Inner_Left_001
+[2019.09.29-05.46.39:618][278]LogStaticMesh: Building static mesh Railing_Corner_Outer_Left_001...
+[2019.09.29-05.46.39:623][278]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Outer_Left_001.Railing_Corner_Outer_Left_001
+[2019.09.29-05.46.39:630][278]LogStaticMesh: Building static mesh Railing_Long_Outer_001...
+[2019.09.29-05.46.39:636][278]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Long_Outer_001.Railing_Long_Outer_001
+[2019.09.29-05.46.39:717][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Railing/Railing" FILE="C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.uasset" SILENT=true
+[2019.09.29-05.46.39:721][279]LogSavePackage: Moving 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/RailingBF9CCC48448AC66895B8F297179E90F1.tmp' to 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.uasset'
+[2019.09.29-05.46.42:389][492]LogActorFactory: Actor Factory created Railing_Corner_Outer_Right_001
+[2019.09.29-05.46.42:390][492]LogActorFactory: Actor Factory created Railing_Long_Inner_001
+[2019.09.29-05.46.42:391][492]LogActorFactory: Actor Factory created Railing_Corner_Inner_Right_001
+[2019.09.29-05.46.42:391][492]LogActorFactory: Actor Factory created Railing_Corner_Inner_Left_001
+[2019.09.29-05.46.42:392][492]LogActorFactory: Actor Factory created Railing_Corner_Outer_Left_001
+[2019.09.29-05.46.42:392][492]LogActorFactory: Actor Factory created Railing_Long_Outer_001
+[2019.09.29-05.46.42:738][530]AssetReimport: Importing new asset /Game/StaticMeshes/Railing/Railing.
+[2019.09.29-05.46.43:574][620]LogActorFactory: Actor Factory created Railing_Corner_Outer_Right_001
+[2019.09.29-05.46.43:597][620]LogActorFactory: Actor Factory created Railing_Long_Inner_001
+[2019.09.29-05.46.43:615][620]LogActorFactory: Actor Factory created Railing_Corner_Inner_Right_001
+[2019.09.29-05.46.43:634][620]LogActorFactory: Actor Factory created Railing_Corner_Inner_Left_001
+[2019.09.29-05.46.43:653][620]LogActorFactory: Actor Factory created Railing_Corner_Outer_Left_001
+[2019.09.29-05.46.43:672][620]LogActorFactory: Actor Factory created Railing_Long_Outer_001
+[2019.09.29-05.46.51:591][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-05.47.00:487][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-05.47.07:989][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.29-05.47.09:943][ 85]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-05.47.09:947][ 85]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Long_Outer_001.Railing_Long_Outer_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Inner_Left_001.Railing_Corner_Inner_Left_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Inner_Right_001.Railing_Corner_Inner_Right_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Outer_Left_001.Railing_Corner_Outer_Left_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Outer_Right_001.Railing_Corner_Outer_Right_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Long_Inner_001.Railing_Long_Inner_001
+[2019.09.29-05.47.11:486][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.09.29-05.47.24:412][603]Cmd: DELETE
+[2019.09.29-05.47.24:413][603]Cmd: ACTOR DELETE
+[2019.09.29-05.47.24:415][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.47.24:437][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.29-05.47.24:438][603]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.47.25:361][711]Cmd: DELETE
+[2019.09.29-05.47.25:361][711]Cmd: ACTOR DELETE
+[2019.09.29-05.47.25:363][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.47.25:385][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.29-05.47.25:386][711]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.47.26:444][834]Cmd: DELETE
+[2019.09.29-05.47.26:444][834]Cmd: ACTOR DELETE
+[2019.09.29-05.47.26:446][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.47.26:469][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-05.47.26:469][834]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.47.27:184][917]Cmd: DELETE
+[2019.09.29-05.47.27:184][917]Cmd: ACTOR DELETE
+[2019.09.29-05.47.27:186][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.47.27:209][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-05.47.27:209][917]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.47.27:949][  3]Cmd: DELETE
+[2019.09.29-05.47.27:949][  3]Cmd: ACTOR DELETE
+[2019.09.29-05.47.27:951][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.47.27:974][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-05.47.27:974][  3]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.47.28:663][ 83]Cmd: DELETE
+[2019.09.29-05.47.28:663][ 83]Cmd: ACTOR DELETE
+[2019.09.29-05.47.28:665][ 83]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.47.28:688][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.29-05.47.28:688][ 83]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.48.36:038][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-05.48.36:678][109]AssetReimport: New page: Outstanding source content changes 1:48:36 am
+[2019.09.29-05.48.36:680][109]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.fbx)
+[2019.09.29-05.48.36:687][109]LogFbx: Loading FBX Scene from C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.fbx
+[2019.09.29-05.48.36:694][109]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.29-05.48.37:948][109]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.29-05.48.37:975][109]LogStaticMesh: Building static mesh Railing_Corner_Outer_Right_001...
+[2019.09.29-05.48.37:982][109]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Outer_Right_001.Railing_Corner_Outer_Right_001
+[2019.09.29-05.48.37:988][109]LogStaticMesh: Building static mesh Railing_Long_Inner_001...
+[2019.09.29-05.48.37:993][109]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Long_Inner_001.Railing_Long_Inner_001
+[2019.09.29-05.48.38:000][109]LogStaticMesh: Building static mesh Railing_Corner_Inner_Right_001...
+[2019.09.29-05.48.38:006][109]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Inner_Right_001.Railing_Corner_Inner_Right_001
+[2019.09.29-05.48.38:012][109]LogStaticMesh: Building static mesh Railing_Corner_Inner_Left_001...
+[2019.09.29-05.48.38:018][109]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Inner_Left_001.Railing_Corner_Inner_Left_001
+[2019.09.29-05.48.38:027][109]LogStaticMesh: Building static mesh Railing_Corner_Outer_Left_001...
+[2019.09.29-05.48.38:032][109]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Outer_Left_001.Railing_Corner_Outer_Left_001
+[2019.09.29-05.48.38:038][109]LogStaticMesh: Building static mesh Railing_Long_Outer_001...
+[2019.09.29-05.48.38:044][109]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Long_Outer_001.Railing_Long_Outer_001
+[2019.09.29-05.48.38:096][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Railing/Railing" FILE="C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.uasset" SILENT=true
+[2019.09.29-05.48.38:098][110]LogSavePackage: Moving 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/RailingB6098933415027B21B292F8CAC8BBEE3.tmp' to 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.uasset'
+[2019.09.29-05.48.41:111][329]AssetReimport: Importing new asset /Game/StaticMeshes/Railing/Railing.
+[2019.09.29-05.48.42:697][452]LogActorFactory: Actor Factory created Railing_Corner_Outer_Right_001
+[2019.09.29-05.48.42:698][452]LogActorFactory: Actor Factory created Railing_Long_Inner_001
+[2019.09.29-05.48.42:698][452]LogActorFactory: Actor Factory created Railing_Corner_Inner_Right_001
+[2019.09.29-05.48.42:699][452]LogActorFactory: Actor Factory created Railing_Corner_Inner_Left_001
+[2019.09.29-05.48.42:699][452]LogActorFactory: Actor Factory created Railing_Corner_Outer_Left_001
+[2019.09.29-05.48.42:700][452]LogActorFactory: Actor Factory created Railing_Long_Outer_001
+[2019.09.29-05.48.43:286][512]LogActorFactory: Actor Factory created Railing_Corner_Outer_Right_001
+[2019.09.29-05.48.43:304][512]LogActorFactory: Actor Factory created Railing_Long_Inner_001
+[2019.09.29-05.48.43:322][512]LogActorFactory: Actor Factory created Railing_Corner_Inner_Right_001
+[2019.09.29-05.48.43:341][512]LogActorFactory: Actor Factory created Railing_Corner_Inner_Left_001
+[2019.09.29-05.48.43:359][512]LogActorFactory: Actor Factory created Railing_Corner_Outer_Left_001
+[2019.09.29-05.48.43:378][512]LogActorFactory: Actor Factory created Railing_Long_Outer_001
+[2019.09.29-05.48.47:049][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.09.29-05.48.53:593][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-05.48.57:208][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.09.29-05.48.58:849][845]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-05.48.58:852][845]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Long_Outer_001.Railing_Long_Outer_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Inner_Left_001.Railing_Corner_Inner_Left_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Inner_Right_001.Railing_Corner_Inner_Right_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Outer_Left_001.Railing_Corner_Outer_Left_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Corner_Outer_Right_001.Railing_Corner_Outer_Right_001
+	Asset Name: /Game/StaticMeshes/Railing/Railing_Long_Inner_001.Railing_Long_Inner_001
+[2019.09.29-05.48.59:636][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.09.29-05.49.02:141][137]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.29-05.49.07:388][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-05.49.10:968][747]Cmd: DELETE
+[2019.09.29-05.49.10:968][747]Cmd: ACTOR DELETE
+[2019.09.29-05.49.10:970][747]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.49.10:993][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-05.49.10:993][747]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.49.11:210][773]Cmd: DELETE
+[2019.09.29-05.49.11:210][773]Cmd: ACTOR DELETE
+[2019.09.29-05.49.11:233][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-05.49.11:233][773]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2019.09.29-05.49.11:715][828]Cmd: DELETE
+[2019.09.29-05.49.11:715][828]Cmd: ACTOR DELETE
+[2019.09.29-05.49.11:717][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.49.11:739][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.09.29-05.49.11:740][828]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.49.12:065][864]Cmd: DELETE
+[2019.09.29-05.49.12:065][864]Cmd: ACTOR DELETE
+[2019.09.29-05.49.12:067][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.49.12:089][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.29-05.49.12:090][864]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.49.12:414][900]Cmd: DELETE
+[2019.09.29-05.49.12:414][900]Cmd: ACTOR DELETE
+[2019.09.29-05.49.12:416][900]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.49.12:439][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-05.49.12:439][900]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.49.12:806][944]Cmd: DELETE
+[2019.09.29-05.49.12:806][944]Cmd: ACTOR DELETE
+[2019.09.29-05.49.12:829][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.29-05.49.12:829][944]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2019.09.29-05.49.13:422][  9]Cmd: DELETE
+[2019.09.29-05.49.13:422][  9]Cmd: ACTOR DELETE
+[2019.09.29-05.49.13:424][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.49.13:446][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.09.29-05.49.13:446][  9]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.49.13:958][ 67]Cmd: DELETE
+[2019.09.29-05.49.13:958][ 67]Cmd: ACTOR DELETE
+[2019.09.29-05.49.13:960][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-05.49.13:983][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.09.29-05.49.13:983][ 67]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.09.29-05.49.56:472][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-05.49.57:826][780]AssetReimport: New page: Outstanding source content changes 1:49:57 am
+[2019.09.29-05.49.57:827][780]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.fbx)
+[2019.09.29-05.49.57:835][780]LogFbx: Loading FBX Scene from C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.fbx
+[2019.09.29-05.49.57:842][780]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.29-05.50.00:570][780]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.29-05.50.00:592][780]LogStaticMesh: Building static mesh Railing_Corner_Outer_Right_001...
+[2019.09.29-05.50.00:599][780]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Outer_Right_001.Railing_Corner_Outer_Right_001
+[2019.09.29-05.50.00:608][780]LogStaticMesh: Building static mesh Railing_Long_Inner_001...
+[2019.09.29-05.50.00:613][780]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Long_Inner_001.Railing_Long_Inner_001
+[2019.09.29-05.50.00:620][780]LogStaticMesh: Building static mesh Railing_Corner_Inner_Right_001...
+[2019.09.29-05.50.00:625][780]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Inner_Right_001.Railing_Corner_Inner_Right_001
+[2019.09.29-05.50.00:632][780]LogStaticMesh: Building static mesh Railing_Corner_Inner_Left_001...
+[2019.09.29-05.50.00:637][780]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Inner_Left_001.Railing_Corner_Inner_Left_001
+[2019.09.29-05.50.00:644][780]LogStaticMesh: Building static mesh Railing_Corner_Outer_Left_001...
+[2019.09.29-05.50.00:650][780]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Corner_Outer_Left_001.Railing_Corner_Outer_Left_001
+[2019.09.29-05.50.00:657][780]LogStaticMesh: Building static mesh Railing_Long_Outer_001...
+[2019.09.29-05.50.00:662][780]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Railing/Railing_Long_Outer_001.Railing_Long_Outer_001
+[2019.09.29-05.50.00:721][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Railing/Railing" FILE="C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.uasset" SILENT=true
+[2019.09.29-05.50.00:723][781]LogSavePackage: Moving 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Railing17E6E9B64EB2BAABBCFE9FBB53EA5FA6.tmp' to 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Railing/Railing.uasset'
+[2019.09.29-05.50.03:734][ 14]AssetReimport: Importing new asset /Game/StaticMeshes/Railing/Railing.
+[2019.09.29-05.50.04:128][ 49]LogActorFactory: Actor Factory created Railing_Corner_Outer_Right_001
+[2019.09.29-05.50.04:129][ 49]LogActorFactory: Actor Factory created Railing_Long_Inner_001
+[2019.09.29-05.50.04:129][ 49]LogActorFactory: Actor Factory created Railing_Corner_Inner_Right_001
+[2019.09.29-05.50.04:130][ 49]LogActorFactory: Actor Factory created Railing_Corner_Inner_Left_001
+[2019.09.29-05.50.04:130][ 49]LogActorFactory: Actor Factory created Railing_Corner_Outer_Left_001
+[2019.09.29-05.50.04:131][ 49]LogActorFactory: Actor Factory created Railing_Long_Outer_001
+[2019.09.29-05.50.04:634][ 97]LogActorFactory: Actor Factory created Railing_Corner_Outer_Right_001
+[2019.09.29-05.50.04:652][ 97]LogActorFactory: Actor Factory created Railing_Long_Inner_001
+[2019.09.29-05.50.04:670][ 97]LogActorFactory: Actor Factory created Railing_Corner_Inner_Right_001
+[2019.09.29-05.50.04:688][ 97]LogActorFactory: Actor Factory created Railing_Corner_Inner_Left_001
+[2019.09.29-05.50.04:705][ 97]LogActorFactory: Actor Factory created Railing_Corner_Outer_Left_001
+[2019.09.29-05.50.04:724][ 97]LogActorFactory: Actor Factory created Railing_Long_Outer_001
+[2019.09.29-05.50.07:442][364]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.29-05.50.12:895][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Railing_Corner_Inner_Left_001)
+[2019.09.29-05.50.16:377][328]Cmd: TRANSACTION UNDO
+[2019.09.29-05.50.16:378][328]LogEditorTransaction: Undo Clicking on Actors
+[2019.09.29-05.50.29:130][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.29-05.50.31:062][311]AssetReimport: New page: Outstanding source content changes 1:50:31 am
+[2019.09.29-05.50.31:107][311]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.29-05.50.32:287][311]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.180 s
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: 
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Misc\SlowTask.cpp] [Line: 100]
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: Stack: 
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007fec44928f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007fec4180ec5 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febd9a1175 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febd9570a7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febd9bc7ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febd9be2e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febd908d5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febdc7f6e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000007febe49d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000000013f496bb1 UE4Editor.exe!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000000013f4a554c UE4Editor.exe!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000000013f4a55ca UE4Editor.exe!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000000013f4b316c UE4Editor.exe!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x000000013f4b5b8e UE4Editor.exe!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x0000000077b259cd kernel32.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: [Callstack] 0x0000000077c5a561 ntdll.dll!UnknownFunction []
+[2019.09.29-05.50.32:287][311]LogOutputDevice: Error: 
+[2019.09.29-05.50.32:299][311]LogStats:                SubmitErrorReport -  0.000 s
