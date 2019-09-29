@@ -1,0 +1,863 @@
+﻿Log file open, 09/29/19 11:44:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Rap_Synapse
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160111
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 7 (Service Pack 1), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: AMD Radeon (TM) R9 390 Series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: B:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.29-01.44.50:742][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.29-01.44.50:743][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:743][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:748][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-01.44.50:748][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-01.44.50:749][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-01.44.50:749][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-01.44.50:749][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.29-01.44.50:757][  0]LogHAL: Display: Platform has ~ 16 GB [17126068224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.29-01.44.50:757][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.29-01.44.50:757][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.29-01.44.50:757][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:757][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.29-01.44.50:757][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.29-01.44.50:757][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Scalability.ini]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.29-01.44.50:758][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.29-01.44.50:759][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.29-01.44.50:759][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.29-01.44.50:759][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Config/Windows/Engine.ini]
+[2019.09.29-01.44.50:759][  0]LogInit: Computer: KELIN-PC
+[2019.09.29-01.44.50:759][  0]LogInit: User: Kelin
+[2019.09.29-01.44.50:759][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.29-01.44.50:759][  0]LogInit: High frequency timer resolution =3.312890 MHz
+[2019.09.29-01.44.50:759][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.29-01.44.50:759][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.29-01.44.50:759][  0]LogMemory: Process Physical Memory: 96.55 MB used, 96.55 MB peak
+[2019.09.29-01.44.50:759][  0]LogMemory: Process Virtual Memory: 86.28 MB used, 86.28 MB peak
+[2019.09.29-01.44.50:759][  0]LogMemory: Physical Memory: 6111.33 MB used,  10221.36 MB free, 16332.69 MB total
+[2019.09.29-01.44.50:759][  0]LogMemory: Virtual Memory: 502.43 MB used,  8388105.50 MB free, 8388608.00 MB total
+[2019.09.29-01.44.50:783][  0]LogInit: Using OS detected language (en-AU).
+[2019.09.29-01.44.50:783][  0]LogInit: Using OS detected locale (en-AU).
+[2019.09.29-01.44.50:783][  0]LogTextLocalizationManager: No specific localization for 'en-AU' exists, so the 'en' localization will be used.
+[2019.09.29-01.44.50:938][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.09.29-01.44.50:938][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.09.29-01.44.50:938][  0]LogInit: Setting process to DPI aware
+[2019.09.29-01.44.50:961][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.29-01.44.50:961][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.29-01.44.51:146][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.09.29-01.44.51:146][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.29-01.44.51:156][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 390 Series' (Feature Level 11_0)
+[2019.09.29-01.44.51:157][  0]LogD3D11RHI:       8167/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.09.29-01.44.51:157][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.29-01.44.51:160][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.29-01.44.51:160][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.29-01.44.51:160][  0]LogWindows: EnumDisplayDevices:
+[2019.09.29-01.44.51:161][  0]LogWindows:    0. 'AMD Radeon (TM) R9 390 Series' (P:1 D:1)
+[2019.09.29-01.44.51:161][  0]LogWindows:    1. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:161][  0]LogWindows:    2. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:161][  0]LogWindows:    3. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:162][  0]LogWindows:    4. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:162][  0]LogWindows:    5. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:162][  0]LogWindows:    6. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:162][  0]LogWindows:    7. 'AMD Radeon (TM) R9 390 Series' (P:0 D:0)
+[2019.09.29-01.44.51:163][  0]LogWindows:    8. 'RDPDD Chained DD' (P:0 D:0)
+[2019.09.29-01.44.51:163][  0]LogWindows:    9. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.09.29-01.44.51:163][  0]LogWindows:    10. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.09.29-01.44.51:163][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2019.09.29-01.44.51:163][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 390 Series
+[2019.09.29-01.44.51:163][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.5.2 (internal:26.20.11015.5009, unified:26.20.11015.5009)
+[2019.09.29-01.44.51:163][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.09.29-01.44.51:163][  0]LogRHI: Texture pool is 5717 MB (70% of 8167 MB)
+[2019.09.29-01.44.51:192][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.29-01.44.51:194][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-01.44.51:196][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-01.44.51:196][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.29-01.44.51:202][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.09.29-01.44.51:435][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.29-01.44.51:450][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.29-01.44.51:465][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.29-01.44.51:480][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.29-01.44.51:495][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.29-01.44.51:510][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.29-01.44.51:526][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.29-01.44.51:541][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.29-01.44.51:548][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.29-01.44.51:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.29-01.44.51:640][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.29-01.44.51:690][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.29-01.44.51:690][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.29-01.44.51:717][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.29-01.44.51:717][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.29-01.44.51:732][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.29-01.44.51:745][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.29-01.44.51:759][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.29-01.44.51:773][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.29-01.44.51:834][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.29-01.44.51:834][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.29-01.44.51:834][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.29-01.44.51:841][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.29-01.44.51:893][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Intermediate/Shaders/WorkingDirectory/3472/).
+[2019.09.29-01.44.51:894][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kelin/AppData/Local/Temp/UnrealShaderWorkingDir/B0B76802452D75769E2E6292FEF35E94/'.
+[2019.09.29-01.44.51:896][  0]LogXGEController: Cleaning working directory: C:/Users/Kelin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.29-01.44.51:896][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.29-01.44.51:896][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.29-01.44.51:896][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.29-01.44.52:489][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.29-01.44.52:556][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Kelin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-01.44.52:556][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kelin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.29-01.44.52:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.29-01.44.52:556][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.29-01.44.52:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-01.44.52:557][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.29-01.44.52:569][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.29-01.44.52:569][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.29-01.44.52:569][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.29-01.44.52:581][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kelin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.29-01.44.52:581][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.29-01.44.52:581][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.29-01.44.52:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.29-01.44.52:606][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.29-01.44.52:607][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.29-01.44.52:697][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.09.29-01.44.53:062][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.29-01.44.53:245][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.29-01.44.53:245][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.29-01.44.53:245][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.29-01.44.53:245][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.29-01.44.53:245][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.29-01.44.53:260][  0]LogNetVersion: Rap_Synapse 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 109545618)
+[2019.09.29-01.44.53:703][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037540 seconds
+[2019.09.29-01.44.53:710][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.29-01.44.53:710][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.29-01.44.53:710][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.29-01.44.54:715][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.29-01.44.54:728][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.29-01.44.54:832][  0]SourceControl: Source control is disabled
+[2019.09.29-01.44.54:832][  0]SourceControl: Source control is disabled
+[2019.09.29-01.44.54:833][  0]SourceControl: Source control is disabled
+[2019.09.29-01.44.54:834][  0]SourceControl: Source control is disabled
+[2019.09.29-01.44.54:948][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.29-01.44.55:054][  0]LogOcInput: OculusInput pre-init called
+[2019.09.29-01.44.55:786][  0]LogEngine: Initializing Engine...
+[2019.09.29-01.44.55:788][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.09.29-01.44.55:789][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.29-01.44.56:048][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.29-01.44.56:067][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.29-01.44.56:094][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.29-01.44.56:104][  0]LogInit: FAudioDevice initialized.
+[2019.09.29-01.44.56:104][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.29-01.44.56:202][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Kelin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.29-01.44.56:207][  0]LogInit: Texture streaming: Enabled
+[2019.09.29-01.44.56:226][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.29-01.44.56:240][  0]LogInit: Transaction tracking system initialized
+[2019.09.29-01.44.56:258][  0]BlueprintLog: New page: Editor Load
+[2019.09.29-01.44.56:334][  0]LocalizationService: Localization service is disabled
+[2019.09.29-01.44.56:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/' took 0.01s
+[2019.09.29-01.44.56:621][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.29-01.44.56:621][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.29-01.44.56:794][  0]SourceControl: Source control is disabled
+[2019.09.29-01.44.56:794][  0]Cmd: MAP LOAD FILE="C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.29-01.44.56:794][  0]LightingResults: New page: Lighting Build
+[2019.09.29-01.44.56:797][  0]MapCheck: New page: Map Check
+[2019.09.29-01.44.56:797][  0]LightingResults: New page: Lighting Build
+[2019.09.29-01.44.56:818][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.09.29-01.44.57:105][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.29-01.44.57:115][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.29-01.44.57:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.29-01.44.57:142][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.29-01.44.57:142][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.09.29-01.44.57:142][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.348
+[2019.09.29-01.44.57:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.44.57:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.44.57:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.44.57:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.29-01.44.57:258][  0]LogCollectionManager: Loaded 0 collections in 0.001528 seconds
+[2019.09.29-01.44.57:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Collections/' took 0.01s
+[2019.09.29-01.44.57:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/Developers/Kelin/Collections/' took 0.01s
+[2019.09.29-01.44.57:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/Collections/' took 0.01s
+[2019.09.29-01.44.57:294][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.29-01.44.57:304][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2732 classes and 659 folders.
+[2019.09.29-01.44.57:310][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.29-01.44.57:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:321][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.29-01.44.57:344][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-01.44.57:349][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.29-01.44.57:362][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.29-01.44.57:364][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.29-01.44.57:370][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.29-01.44.57:434][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.29-01.44.57:617][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.29-01.44.57:617][  0]LogLoad: (Engine Initialization) Total time: 11.08 seconds
+[2019.09.29-01.44.57:617][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.29-01.44.57:658][  0]LogAssetRegistry: Asset discovery search completed in 4.9808 seconds
+[2019.09.29-01.44.57:660][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.29-01.44.57:660][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2019.09.29-01.44.57:661][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.29-01.45.12:556][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.46.00:458][712]LogSlate: Took 0.038049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.29-01.46.02:401][894]AssetReimport: New page: Outstanding source content changes 9:46:02 pm
+[2019.09.29-01.46.02:403][894]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital Bed.fbx)
+[2019.09.29-01.46.02:413][894]LogFbx: Loading FBX Scene from C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital Bed.fbx
+[2019.09.29-01.46.02:438][894]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.29-01.46.04:048][894]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.29-01.46.04:237][894]LogStaticMesh: Building static mesh Hospital_Bed_Cube...
+[2019.09.29-01.46.04:246][894]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_Bed_Cube.Hospital_Bed_Cube
+[2019.09.29-01.46.04:260][894]LogStaticMesh: Building static mesh Hospital_Bed_Frame...
+[2019.09.29-01.46.04:270][894]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_Bed_Frame.Hospital_Bed_Frame
+[2019.09.29-01.46.04:304][894]LogStaticMesh: Building static mesh Hospital_Bed_Wheel...
+[2019.09.29-01.46.04:324][894]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_Bed_Wheel.Hospital_Bed_Wheel
+[2019.09.29-01.46.04:340][894]LogStaticMesh: Building static mesh Hospital_Bed_Cube_001...
+[2019.09.29-01.46.04:342][894]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_Bed_Cube_001.Hospital_Bed_Cube_001
+[2019.09.29-01.46.04:354][894]LogStaticMesh: Building static mesh Hospital_Bed_Cube_002...
+[2019.09.29-01.46.04:363][894]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_Bed_Cube_002.Hospital_Bed_Cube_002
+[2019.09.29-01.46.04:377][894]LogStaticMesh: Building static mesh Hospital_Bed_Plane...
+[2019.09.29-01.46.04:392][894]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_Bed_Plane.Hospital_Bed_Plane
+[2019.09.29-01.46.04:399][894]LogStaticMesh: Building static mesh Hospital_Bed_Cube_003...
+[2019.09.29-01.46.04:403][894]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_Bed_Cube_003.Hospital_Bed_Cube_003
+[2019.09.29-01.46.04:414][894]LogStaticMesh: Building static mesh Hospital_Bed_Plane_001...
+[2019.09.29-01.46.04:429][894]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_Bed_Plane_001.Hospital_Bed_Plane_001
+[2019.09.29-01.46.04:442][894]LogStaticMesh: Building static mesh Hospital_Bed_Cube_004...
+[2019.09.29-01.46.04:444][894]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_Bed_Cube_004.Hospital_Bed_Cube_004
+[2019.09.29-01.46.04:606][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Hospital_Bed" FILE="C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital_Bed.uasset" SILENT=true
+[2019.09.29-01.46.04:614][895]LogSavePackage: Moving 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/Hospital_Bed483197EF4098F4265316F2BFD0F4D926.tmp' to 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital_Bed.uasset'
+[2019.09.29-01.46.07:133][ 93]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-01.46.07:136][ 93]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-01.46.07:640][136]AssetReimport: Importing new asset /Game/StaticMeshes/Hospital_Bed.
+[2019.09.29-01.46.13:748][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.09.29-01.46.23:286][660]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-01.46.30:945][341]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.46.30:946][341]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.46.30:947][341]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.46.30:947][341]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.46.30:948][341]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.46.30:948][341]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.46.30:949][341]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.46.30:949][341]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.46.30:950][341]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.46.31:734][420]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.46.31:757][420]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.46.31:776][420]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.46.31:794][420]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.46.31:812][420]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.46.31:831][420]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.46.31:850][420]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.46.31:868][420]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.46.31:887][420]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.46.38:520][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hospital_Bed_Cube_004)
+[2019.09.29-01.46.44:889][755]Cmd: DELETE
+[2019.09.29-01.46.44:889][755]Cmd: ACTOR DELETE
+[2019.09.29-01.46.44:892][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.46.44:917][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.09.29-01.46.44:917][755]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.09.29-01.46.46:213][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.46.48:138][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.29-01.46.50:031][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-01.46.50:035][ 17]LogUObjectGlobals: Force Deleting 10 Package(s):
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Cube.Hospital_Bed_Cube
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Cube_001.Hospital_Bed_Cube_001
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Cube_002.Hospital_Bed_Cube_002
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Cube_003.Hospital_Bed_Cube_003
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Cube_004.Hospital_Bed_Cube_004
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Frame.Hospital_Bed_Frame
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Plane.Hospital_Bed_Plane
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Plane_001.Hospital_Bed_Plane_001
+	Asset Name: /Game/StaticMeshes/Hospital_Bed_Wheel.Hospital_Bed_Wheel
+	Asset Name: /Game/StaticMeshes/Material.Material
+[2019.09.29-01.46.51:546][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.09.29-01.48.39:090][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital_Bed/Hospital Bed.fbx)
+[2019.09.29-01.48.39:105][ 12]LogFbx: Loading FBX Scene from C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital_Bed/Hospital Bed.fbx
+[2019.09.29-01.48.39:114][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.29-01.48.44:615][ 12]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.29-01.48.44:642][ 12]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.09.29-01.48.44:656][ 12]LogFbx: Display: Triangulating static mesh Cube
+[2019.09.29-01.48.44:665][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Cube...
+[2019.09.29-01.48.44:671][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube.Hospital_Bed_Cube
+[2019.09.29-01.48.44:681][ 12]LogFbx: Display: Triangulating static mesh Frame
+[2019.09.29-01.48.44:687][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Frame...
+[2019.09.29-01.48.44:697][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Frame.Hospital_Bed_Frame
+[2019.09.29-01.48.44:704][ 12]LogFbx: Display: Triangulating static mesh Wheel
+[2019.09.29-01.48.44:729][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Wheel...
+[2019.09.29-01.48.44:748][ 12]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Wheel.Hospital_Bed_Wheel
+[2019.09.29-01.48.44:753][ 12]LogStaticMesh: Warning: Hospital_Bed_Wheel has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.09.29-01.48.44:753][ 12]LogStaticMesh: Warning: Hospital_Bed_Wheel has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.29-01.48.44:761][ 12]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.09.29-01.48.44:762][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Cube_001...
+[2019.09.29-01.48.44:764][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_001.Hospital_Bed_Cube_001
+[2019.09.29-01.48.44:771][ 12]LogFbx: Display: Triangulating static mesh Cube.002
+[2019.09.29-01.48.44:778][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Cube_002...
+[2019.09.29-01.48.44:786][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_002.Hospital_Bed_Cube_002
+[2019.09.29-01.48.44:787][ 12]LogStaticMesh: Warning: Hospital_Bed_Cube_002 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.09.29-01.48.44:787][ 12]LogStaticMesh: Warning: Hospital_Bed_Cube_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.29-01.48.44:795][ 12]LogFbx: Display: Triangulating static mesh Plane
+[2019.09.29-01.48.44:802][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Plane...
+[2019.09.29-01.48.44:818][ 12]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Plane.Hospital_Bed_Plane
+[2019.09.29-01.48.44:825][ 12]LogFbx: Display: Triangulating static mesh Cube.003
+[2019.09.29-01.48.44:827][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Cube_003...
+[2019.09.29-01.48.44:830][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_003.Hospital_Bed_Cube_003
+[2019.09.29-01.48.44:835][ 12]LogFbx: Display: Triangulating static mesh Plane.001
+[2019.09.29-01.48.44:842][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Plane_001...
+[2019.09.29-01.48.44:858][ 12]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Plane_001.Hospital_Bed_Plane_001
+[2019.09.29-01.48.44:867][ 12]LogFbx: Display: Triangulating static mesh Cube.004
+[2019.09.29-01.48.44:872][ 12]LogStaticMesh: Building static mesh Hospital_Bed_Cube_004...
+[2019.09.29-01.48.44:877][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_004.Hospital_Bed_Cube_004
+[2019.09.29-01.48.44:908][ 12]FBXImport: Warning: Hospital_Bed_Wheel has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2019.09.29-01.48.44:908][ 12]FBXImport: Warning: Hospital_Bed_Wheel has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.29-01.48.44:908][ 12]FBXImport: Warning: Hospital_Bed_Cube_002 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2019.09.29-01.48.44:908][ 12]FBXImport: Warning: Hospital_Bed_Cube_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.29-01.48.47:471][183]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-01.48.47:479][183]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-01.53.01:135][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.09.29-01.53.03:302][968]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-01.53.03:405][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.09.29-01.53.30:887][412]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital_Bed/Hospital Bed.fbx)
+[2019.09.29-01.53.30:897][412]LogFbx: Loading FBX Scene from C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/StaticMeshes/Hospital_Bed/Hospital Bed.fbx
+[2019.09.29-01.53.30:907][412]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.29-01.53.32:658][412]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.29-01.53.32:678][412]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.09.29-01.53.32:693][412]LogFbx: Display: Triangulating static mesh Cube
+[2019.09.29-01.53.32:700][412]LogStaticMesh: Building static mesh Hospital_Bed_Cube...
+[2019.09.29-01.53.32:708][412]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube.Hospital_Bed_Cube
+[2019.09.29-01.53.32:713][412]LogFbx: Display: Triangulating static mesh Frame
+[2019.09.29-01.53.32:720][412]LogStaticMesh: Building static mesh Hospital_Bed_Frame...
+[2019.09.29-01.53.32:731][412]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Frame.Hospital_Bed_Frame
+[2019.09.29-01.53.32:736][412]LogFbx: Display: Triangulating static mesh Wheel
+[2019.09.29-01.53.32:761][412]LogStaticMesh: Building static mesh Hospital_Bed_Wheel...
+[2019.09.29-01.53.32:807][412]LogStaticMesh: Built static mesh [0.05s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Wheel.Hospital_Bed_Wheel
+[2019.09.29-01.53.32:817][412]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.09.29-01.53.32:818][412]LogStaticMesh: Building static mesh Hospital_Bed_Cube_001...
+[2019.09.29-01.53.32:820][412]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_001.Hospital_Bed_Cube_001
+[2019.09.29-01.53.32:825][412]LogFbx: Display: Triangulating static mesh Cube.002
+[2019.09.29-01.53.32:831][412]LogStaticMesh: Building static mesh Hospital_Bed_Cube_002...
+[2019.09.29-01.53.32:840][412]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_002.Hospital_Bed_Cube_002
+[2019.09.29-01.53.32:847][412]LogFbx: Display: Triangulating static mesh Plane
+[2019.09.29-01.53.32:854][412]LogStaticMesh: Building static mesh Hospital_Bed_Plane...
+[2019.09.29-01.53.32:870][412]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Plane.Hospital_Bed_Plane
+[2019.09.29-01.53.32:876][412]LogFbx: Display: Triangulating static mesh Cube.003
+[2019.09.29-01.53.32:878][412]LogStaticMesh: Building static mesh Hospital_Bed_Cube_003...
+[2019.09.29-01.53.32:881][412]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_003.Hospital_Bed_Cube_003
+[2019.09.29-01.53.32:887][412]LogFbx: Display: Triangulating static mesh Plane.001
+[2019.09.29-01.53.32:894][412]LogStaticMesh: Building static mesh Hospital_Bed_Plane_001...
+[2019.09.29-01.53.32:910][412]LogStaticMesh: Built static mesh [0.02s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Plane_001.Hospital_Bed_Plane_001
+[2019.09.29-01.53.32:918][412]LogFbx: Display: Triangulating static mesh Cube.004
+[2019.09.29-01.53.32:924][412]LogStaticMesh: Building static mesh Hospital_Bed_Cube_004...
+[2019.09.29-01.53.32:930][412]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Hospital_bed/Hospital_Bed_Cube_004.Hospital_Bed_Cube_004
+[2019.09.29-01.53.32:957][412]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.29-01.53.35:186][560]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-01.53.35:195][560]LogSlate: Window 'Message Log' being destroyed
+[2019.09.29-01.53.37:699][727]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.53.37:700][727]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.53.37:700][727]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.53.37:701][727]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.53.37:701][727]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.53.37:702][727]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.53.37:702][727]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.53.37:703][727]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.53.37:703][727]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.53.38:172][778]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.53.38:191][778]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.53.38:209][778]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.53.38:227][778]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.53.38:246][778]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.53.38:264][778]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.53.38:283][778]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.53.38:302][778]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.53.38:321][778]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.53.38:474][778]LogMaterial: Warning: Material /Game/StaticMeshes/Hospital_bed/Material.Material needed to have new flag set bUsedWithStaticLighting !
+[2019.09.29-01.53.38:478][778]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.09.29-01.53.55:424][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.02:059][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HospitalCouch_Cube)
+[2019.09.29-01.54.06:301][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.10:522][888]Cmd: DELETE
+[2019.09.29-01.54.10:522][888]Cmd: ACTOR DELETE
+[2019.09.29-01.54.10:532][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:532][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:532][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:532][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:533][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:533][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:533][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:533][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:533][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:534][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:534][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:534][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:534][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:535][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:535][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:535][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:535][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:536][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:536][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:536][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:536][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:537][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:537][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:537][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:537][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:537][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:538][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:538][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:538][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:538][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:539][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:539][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:539][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.29-01.54.10:563][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.09.29-01.54.10:563][888]LogEditorActor: Deleted 33 Actors (0.041 secs)
+[2019.09.29-01.54.11:968][ 54]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.29-01.54.15:426][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.54.16:168][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.09.29-01.54.18:294][470]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.29-01.54.18:298][470]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StaticMeshes/Hospital_bed/Material.Material
+[2019.09.29-01.54.18:571][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.09.29-01.55.01:080][119]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.55.01:081][119]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.55.01:081][119]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.55.01:082][119]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.55.01:082][119]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.55.01:083][119]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.55.01:083][119]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.55.01:084][119]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.55.01:084][119]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.55.01:608][167]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.55.01:629][167]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.55.01:648][167]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.55.01:666][167]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.55.01:683][167]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.55.01:701][167]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.55.01:720][167]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.55.01:738][167]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.55.01:757][167]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.55.06:816][711]Cmd: TRANSACTION UNDO
+[2019.09.29-01.55.06:816][711]LogEditorTransaction: Undo Create Actors
+[2019.09.29-01.55.08:338][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.55.22:878][249]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.55.22:878][249]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.55.22:879][249]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.55.22:880][249]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.55.22:880][249]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.55.22:881][249]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.55.22:881][249]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.55.22:882][249]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.55.22:882][249]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.55.23:222][274]LogActorFactory: Actor Factory created Hospital_Bed_Cube
+[2019.09.29-01.55.23:243][274]LogActorFactory: Actor Factory created Hospital_Bed_Cube_001
+[2019.09.29-01.55.23:262][274]LogActorFactory: Actor Factory created Hospital_Bed_Cube_002
+[2019.09.29-01.55.23:280][274]LogActorFactory: Actor Factory created Hospital_Bed_Cube_003
+[2019.09.29-01.55.23:298][274]LogActorFactory: Actor Factory created Hospital_Bed_Cube_004
+[2019.09.29-01.55.23:316][274]LogActorFactory: Actor Factory created Hospital_Bed_Frame
+[2019.09.29-01.55.23:333][274]LogActorFactory: Actor Factory created Hospital_Bed_Plane
+[2019.09.29-01.55.23:351][274]LogActorFactory: Actor Factory created Hospital_Bed_Plane_001
+[2019.09.29-01.55.23:369][274]LogActorFactory: Actor Factory created Hospital_Bed_Wheel
+[2019.09.29-01.55.32:376][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.09.29-01.55.49:303][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.29-01.56.01:545][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.09.29-01.56.01:676][735]LogSavePackage: Moving 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/ThirdPersonExampleMapBE97242649DB84188B660C858DD2EC2B.tmp' to 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.29-01.56.01:763][735]LogSavePackage: Moving 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Saved/ThirdPersonExampleMap_BuiltDataB66994D3444F6F75A4182C85C8564E1F.tmp' to 'C:/Users/Kelin/Documents/GitHub/19T3-GPG210-Team-D-Prototype-0/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.09.29-01.56.04:100][921]AssetReimport: New page: Outstanding source content changes 9:56:04 pm
+[2019.09.29-01.56.04:391][921]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.29-01.56.05:613][921]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.222 s
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: 
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Misc\SlowTask.cpp] [Line: 100]
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: Stack: 
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007fec27328f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007fec2420ec5 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febbcb1175 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febbc670a7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febbccc7ac UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febbcce2e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febbc18d5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febbf8f6e0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000007febc7ad396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000000013f936bb1 UE4Editor.exe!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000000013f94554c UE4Editor.exe!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000000013f9455ca UE4Editor.exe!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000000013f95316c UE4Editor.exe!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x000000013f955b8e UE4Editor.exe!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x00000000778f59cd kernel32.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: [Callstack] 0x0000000077a2a561 ntdll.dll!UnknownFunction []
+[2019.09.29-01.56.05:613][921]LogOutputDevice: Error: 
+[2019.09.29-01.56.05:621][921]LogStats:                SubmitErrorReport -  0.000 s
